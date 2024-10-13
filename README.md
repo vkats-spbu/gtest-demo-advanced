@@ -6,6 +6,11 @@ We just have a class with one public method printing "Hello world" and returning
 
 Makefile has target to iterate test-*.cpp files and treat them as tests. Each such file will be compiled and linked into test-% executable
 
+## Dependencies
+
+<pre>sudo apt install g++</pre>
+<pre>sudo apt install libgtest-dev</pre>
+
 
 
 
